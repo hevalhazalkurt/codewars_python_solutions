@@ -21,6 +21,7 @@
 - [Make a function that does arithmetic!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md)
 - [Mumbling](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Mumbling.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
+- [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
 - [The highest profit wins!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/The_highest_profit_wins.md)
 
 
