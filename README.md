@@ -1,5 +1,7 @@
 # CodeWars Python Solutions
 
+Join [CodeWars](www.codewars.com/r/hbGshA)! 
+
 ---
 
 
