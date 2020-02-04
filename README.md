@@ -1,6 +1,6 @@
 # CodeWars Python Solutions
 
-Join [CodeWars](www.codewars.com/r/hbGshA)! 
+Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ---
 
