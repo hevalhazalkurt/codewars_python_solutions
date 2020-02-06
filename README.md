@@ -14,6 +14,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 - [Counting Duplicates](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Counting_Duplicates.md)
 - [Find the unique number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)
+- [Sum of a Sequence [Hard-Core Version](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
 - [Sum of Digits / Digital Root](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)
 
 
