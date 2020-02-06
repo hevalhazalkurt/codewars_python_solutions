@@ -34,6 +34,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
 - [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
+- [Sum of a sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_a_sequence.md)
 - [Sum of two lowest positive integers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_two_lowest_positive_integers.md)
 - [The highest profit wins!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/The_highest_profit_wins.md)
 
