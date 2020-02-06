@@ -29,6 +29,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Isograms](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Isograms.md)
 - [Make a function that does arithmetic!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md)
 - [Maximum Multiple](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Maximum_Multiple.md)
+- [Moves in squared strings (I)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Moves_in_squared_strings_I.md)
 - [Mumbling](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Mumbling.md)
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
