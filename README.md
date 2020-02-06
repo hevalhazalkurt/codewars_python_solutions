@@ -32,6 +32,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Maximum Multiple](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Maximum_Multiple.md)
 - [Moves in squared strings (I)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Moves_in_squared_strings_I.md)
 - [Mumbling](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Mumbling.md)
+- [Odd or Even?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Odd_or_Even.md)
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
 - [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
