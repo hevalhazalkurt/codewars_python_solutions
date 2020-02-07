@@ -2,20 +2,23 @@
 
 ---
 
-## Most sales
+## Minimum to multiple
 
 
 **Description:**
 
-You work in the best consumer electronics corporation, and your boss wants to find out which three products generate the most revenue. Given 3 lists of the same length like these:
+Given two integers `a` and `x`, return the minimum non-negative number to add to / subtract from a to make it a multiple of `x`.
 
-- products: `["Computer", "Cell Phones", "Vacuum Cleaner"]`
-- amounts: `[3, 24, 8]`
-- prices: `[199, 299, 399]`
 
-return the three product names with the highest revenue (`amount * price`).
+```python
+minimum(10, 6)  #= 2
 
-Note: if multiple products have the same revenue, order them according to their original positions in the input list.
+10+2 = 12 which is a multiple of 6
+```
+
+**Note**
+
+0 is always a multiple of `x`
 
 ---
 
@@ -23,7 +26,7 @@ Note: if multiple products have the same revenue, order them according to their 
 
 
 ```python
-def top3(products, amounts, prices):
+def minimum(a, x):
     # code
 ```
 
@@ -33,14 +36,11 @@ def top3(products, amounts, prices):
 
 
 ```python
-def top3(products, amounts, prices):
-    top = []
-    for i in range(len(products)):
-        top.append((amounts[i] * prices[i], products[i]))
-    return [p[1] for p in sorted(top, reverse=True, key=lambda x: x[0])][:3]
+def minimum(a, x):
+    return min([a % x, x-(a%x)])
 ```
 
 ---
 
 
-[See on CodeWars.com](https://www.codewars.com/kata/5e16ffb7297fe00001114824)
+[See on CodeWars.com](https://www.codewars.com/kata/5e030f77cec18900322c535d)
