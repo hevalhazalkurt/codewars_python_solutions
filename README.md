@@ -45,6 +45,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [No Loops 2 - You only need one](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/No_Loops_1_Small_enough.md)
 - [Number Of Occurrences](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Number_Of_Occurrences.md)
 - [Odd or Even?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Odd_or_Even.md)
+- [Ones and Zeros](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ones_and_Zeros.md)
 - [Pandemia](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Pandemia.md)
 - [Product Of Maximums Of Array (Array Series # 2)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Product_Of_Maximums_Of_Array_Array_Series_2.md)
 - [Regexp Basics - is it a vowel?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Regexp_Basics_is_it_a_vowel.md)
