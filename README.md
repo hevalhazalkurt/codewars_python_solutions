@@ -7,8 +7,10 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ## 6kyu Katas
 
+- [Arrh, grabscrab!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)
 - [Bit Counting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Bit_Counting.md)
 - [Counting Duplicates](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Counting_Duplicates.md)
+- [Count the smiley faces!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_the_smiley_faces.md)
 - [Create Phone Number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Create_Phone_Number.md)
 - [Duplicate Encoder](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)
 - [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
@@ -77,6 +79,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Grasshopper - Check for factor](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Check_for_factor.md)
 - [Grasshopper - Grade book](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Grade_book.md)
 - [Grasshopper - Messi goals function](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Messi_goals_function.md)
+- [Grasshopper - Summation](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Summation.md)
 - [Incorrect division method](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Incorrect_division_method.md)
 - [Is n divisible by x and y?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_n_divisible_by_x_and_y.md)
 - [Keep Hydrated!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Keep_Hydrated.md)
