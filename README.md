@@ -16,10 +16,12 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Duplicate Encoder](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)
 - [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
 - [Find the unique number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)
+- [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
 - [Sum of a Sequence [Hard-Core Version]](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
 - [Sum of Digits / Digital Root](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)
 - [What will be the odd one out?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/What_will_be_the_odd_one_out.md)
-
+- [Which are in?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Which_are_in.md)
+- [Write Number in Expanded Form](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Write_Number_in_Expanded_Form.md)
 
 ---
 
@@ -55,10 +57,11 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Remove duplicate words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_duplicate_words.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
-- [Sum of angles](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_angles.md)
+- [Square Every Digit](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Square_Every_Digit.md)
 - [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
 - [Special Number (Special Numbers Series # 5)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Special_Number_Special_Numbers_Series_5.md)
 - [STRONGN Strong Number (Special Numbers Series # 2)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/STRONGN_Strong_Number_Special_Numbers_Series_2.md)
+- [Sum of angles](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_angles.md)
 - [Sum of Minimums!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_Minimums.md)
 - [Sum of a sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_a_sequence.md)
 - [Sum of two lowest positive integers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_two_lowest_positive_integers.md)
