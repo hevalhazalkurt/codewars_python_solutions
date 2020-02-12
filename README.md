@@ -5,6 +5,13 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ---
 
+## 5kyu Katas
+
+- [Where my anagrams at?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)
+
+---
+
+
 ## 6kyu Katas
 
 - [Arrh, grabscrab!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)
@@ -15,6 +22,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Does my number look big in this?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Does_my_number_look_big_in_this.md)
 - [Duplicate Encoder](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)
 - [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
+- [Find The Parity Outlier](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_The_Parity_Outlier.md)
 - [Find the unique number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)
 - [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
 - [Sum of a Sequence [Hard-Core Version]](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
@@ -74,16 +82,19 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ## 8kyu Katas
 
+- [A Needle in the Haystack](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/A_Needle_in_the_Haystack.md)
 - [Array plus array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Array_plus_array.md)
 - [Beginner Series # 2 Clock](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_2_Clock.md)
 - [Century From Year](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Century_From_Year.md)
 - [Convert a Number to a String!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_Number_to_a_String.md)
 - [Convert number to reversed array of digits](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_number_to_reversed_array_of_digits.md)
+- [Even or Odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Even_or_Odd.md)
 - [Function 1 - hello world](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Function_1_hello_world.md)
 - [Grasshopper - Check for factor](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Check_for_factor.md)
 - [Grasshopper - Grade book](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Grade_book.md)
 - [Grasshopper - Messi goals function](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Messi_goals_function.md)
 - [Grasshopper - Summation](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Summation.md)
+- [Jenny's secret message](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Jenny_s_secret_message.md)
 - [Job Matching # 1](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Job_Matching_1.md)
 - [Incorrect division method](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Incorrect_division_method.md)
 - [Is n divisible by x and y?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_n_divisible_by_x_and_y.md)
