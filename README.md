@@ -7,6 +7,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ## 5kyu Katas
 
+- [Simple Pig Latin](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Simple_Pig_Latin.md)
 - [Where my anagrams at?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)
 
 ---
@@ -16,6 +17,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 - [Arrh, grabscrab!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)
 - [Bit Counting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Bit_Counting.md)
+- [Break camelCase](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Break_camelCase.md)
 - [Counting Duplicates](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Counting_Duplicates.md)
 - [Count the smiley faces!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_the_smiley_faces.md)
 - [Create Phone Number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Create_Phone_Number.md)
@@ -24,6 +26,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
 - [Find The Parity Outlier](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_The_Parity_Outlier.md)
 - [Find the unique number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)
+- [Replace With Alphabet Position](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replace_With_Alphabet_Position.md)
 - [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
 - [Sum of a Sequence [Hard-Core Version]](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
 - [Sum of Digits / Digital Root](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)
@@ -35,6 +38,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 
 ## 7kyu Katas
 
+- [Anagram Detection](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Anagram_Detection.md)
 - [Balanced Number (Special Numbers Series # 1 )](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Balanced_Number_Special_Numbers_Series_1.md)
 - [Categorize New Member](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Categorize_New_Member.md)
 - [Complete The Pattern # 1](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Complete_The_Pattern_1.md)
@@ -64,6 +68,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Regexp Basics - is it a vowel?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Regexp_Basics_is_it_a_vowel.md)
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Remove duplicate words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_duplicate_words.md)
+- [Return the closest number multiple of 10](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Return_the_closest_number_multiple_of_10.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
 - [Square Every Digit](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Square_Every_Digit.md)
 - [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
@@ -73,6 +78,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Sum of Minimums!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_Minimums.md)
 - [Sum of a sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_a_sequence.md)
 - [Sum of two lowest positive integers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_two_lowest_positive_integers.md)
+- [Testing 1-2-3](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Testing_1_2_3.md)
 - [The highest profit wins!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/The_highest_profit_wins.md)
 - ["Very Even" Numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Very_Even_Numbers.md)
 - [Vowel Count](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md)
@@ -85,10 +91,13 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [A Needle in the Haystack](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/A_Needle_in_the_Haystack.md)
 - [Array plus array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Array_plus_array.md)
 - [Beginner Series # 2 Clock](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_2_Clock.md)
+- [Calculate average](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Calculate_average.md)
 - [Century From Year](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Century_From_Year.md)
 - [Convert a Number to a String!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_Number_to_a_String.md)
 - [Convert number to reversed array of digits](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_number_to_reversed_array_of_digits.md)
+- [Count the Monkeys!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_the_Monkeys.md)
 - [Even or Odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Even_or_Odd.md)
+- [Find the smallest integer in the array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_smallest_integer_in_the_array.md)
 - [Function 1 - hello world](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Function_1_hello_world.md)
 - [Grasshopper - Check for factor](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Check_for_factor.md)
 - [Grasshopper - Grade book](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Grade_book.md)
@@ -106,6 +115,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA)!
 - [Pizza Comparison](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Pizza_Comparison.md)
 - [Remove First and Last Character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_First_and_Last_Character.md)
 - [Remove String Spaces](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_String_Spaces.md)
+- [Return Negative](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Return_Negative.md)
 - [Reversed sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_sequence.md)
 - [Reversed Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Strings.md)
 - [Squash the bugs](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Squash_the_bugs.md)
