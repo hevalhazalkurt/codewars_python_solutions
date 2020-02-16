@@ -14,6 +14,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Scramblies](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Scramblies.md)
 - [Simple Pig Latin](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Simple_Pig_Latin.md)
 - [Where my anagrams at?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)
+- [The Hashtag Generator](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/The_Hashtag_Generator.md)
 
 ---
 
@@ -21,6 +22,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 ## 6kyu Katas
 
 - [+1 Array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/1_Array.md)
+- [Array.diff](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Array_diff.md)
 - [Arrh, grabscrab!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)
 - [Bit Counting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Bit_Counting.md)
 - [Break camelCase](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Break_camelCase.md)
@@ -71,6 +73,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Highest and Lowest](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Highest_and_Lowest.md)
 - [Is this a triangle?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Is_this_a_triangle.md)
 - [Isograms](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Isograms.md)
+- [List Filtering](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/List_Filtering.md)
 - [Make a function that does arithmetic!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md)
 - [Maximum Multiple](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Maximum_Multiple.md)
 - [Most sales](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Most_sales.md)
@@ -88,6 +91,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
 - [Remove duplicate words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_duplicate_words.md)
 - [Return the closest number multiple of 10](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Return_the_closest_number_multiple_of_10.md)
+- [Remove the minimum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_the_minimum.md)
 - [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
 - [Square Every Digit](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Square_Every_Digit.md)
 - [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
