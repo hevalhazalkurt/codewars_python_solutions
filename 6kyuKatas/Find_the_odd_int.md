@@ -30,6 +30,17 @@ def find_it(seq):
 
 ---
 
+### Solution 2
+
+
+```python
+def find_it(seq):
+    return [i for i in seq if seq.count(i) % 2 != 0][0]
+```
+
+
+---
+
 
 
 [See on CodeWars.com](https://www.codewars.com/kata/54da5a58ea159efa38000836)
