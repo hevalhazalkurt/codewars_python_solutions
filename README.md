@@ -9,6 +9,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 - [First non-repeating character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/First_non_repeating_character.md)
 - [Human Readable Time](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Human_Readable_Time.md)
+- [Largest product in a series](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Largest_product_in_a_series.md)
 - [Moving Zeros To The End](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Moving_Zeros_To_The_End.md)
 - [Not very secure](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Not_very_secure.md)
 - [Pete, the baker](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Pete_the_baker.md)
@@ -153,6 +154,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 - [A Needle in the Haystack](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/A_Needle_in_the_Haystack.md)
 - [Abbreviate a Two Word Name](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Abbreviate_a_Two_Word_Name.md)
+- [All Star Code Challenge # 18](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/All_Star_Code_Challenge_18.md)
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/altERnaTIng_cAsE_ALTerNAtiNG_CaSe.md)
 - [Are You Playing Banjo?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Are_You_Playing_Banjo.md)
 - [Array plus array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Array_plus_array.md)
