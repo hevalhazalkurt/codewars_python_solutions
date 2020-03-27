@@ -38,6 +38,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Create Phone Number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Create_Phone_Number.md)
 - [Does my number look big in this?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Does_my_number_look_big_in_this.md)
 - [Duplicate Encoder](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)
+- [Drunk friend](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Drunk_friend.md)
 - [Find the Nexus of the Codewars Universe](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_Nexus_of_the_Codewars_Universe.md)
 - [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
 - [Find The Parity Outlier](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_The_Parity_Outlier.md)
