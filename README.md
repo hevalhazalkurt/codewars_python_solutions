@@ -7,7 +7,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ## 4kyu Katas
 
-- [Strip Comments](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyu/Strip_Comments.md)
+- [Strip Comments](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Strip_Comments.md)
 
 ---
 
