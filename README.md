@@ -5,6 +5,12 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
+## 4kyu Katas
+
+- [Strip Comments](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyu/Strip_Comments.md)
+
+---
+
 ## 5kyu Katas
 
 - [First non-repeating character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/First_non_repeating_character.md)
@@ -48,6 +54,8 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Meeting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Meeting.md)
 - [New Cashier Does Not Know About Space or Shift](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/New%20Cashier%20Does_Not_Know_About_Space_or_Shift.md)
 - [Replace With Alphabet Position](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replace_With_Alphabet_Position.md)
+- [Replacement](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replacement.md)
+- [Simplify the number!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Simplify_the_number.md)
 - [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
 - [Split Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Split_Strings.md)
 - [Stop gninnipS My sdroW!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Stop_gninnipS_My_sdroW.md)
@@ -220,6 +228,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Opposite number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Opposite_number.md)
 - [Palindrome Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Palindrome_Strings.md)
 - [Pizza Comparison](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Pizza_Comparison.md)
+- [Polish alphabet](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Polish_alphabet.md)
 - [Regex count lowercase letters](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Regex_count_lowercase_letters.md)
 - [Remove exclamation marks](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_exclamation_marks.md)
 - [Remove First and Last Character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_First_and_Last_Character.md)
@@ -231,6 +240,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Reversed sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_sequence.md)
 - [Reversed Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Strings.md)
 - [Sentence Smash](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sentence_Smash.md)
+- [Sort and Star](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sort_and_Star.md)
 - [Squash the bugs](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Squash_the_bugs.md)
 - [Square(n) Sum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Square_n_Sum.md)
 - [String repeat](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/String_repeat.md)
