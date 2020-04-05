@@ -7,6 +7,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ## 4kyu Katas
 
+- [Human readable duration format](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Human_readable_duration_format.md)
 - [Strip Comments](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Strip_Comments.md)
 
 ---
@@ -52,6 +53,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Format_a_string_of_names_like_Bart_Lisa_Maggie.md)
 - [Highest Scoring Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Highest_Scoring_Word.md)
 - [Meeting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Meeting.md)
+- [More Zeros than Ones](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/More_Zeros_than_Ones.md)
 - [New Cashier Does Not Know About Space or Shift](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/New%20Cashier%20Does_Not_Know_About_Space_or_Shift.md)
 - [Replace With Alphabet Position](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replace_With_Alphabet_Position.md)
 - [Replacement](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replacement.md)
@@ -59,7 +61,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
 - [Split Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Split_Strings.md)
 - [Stop gninnipS My sdroW!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Stop_gninnipS_My_sdroW.md)
-- [Sum of a Sequence [Hard-Core Version]](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
+- [Sum of a Sequence (Hard-Core Version)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
 - [Sum of Digits / Digital Root](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)
 - [Sums of Parts](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sums_of_Parts.md)
 - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka.md)
@@ -100,6 +102,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_The_Duplicated_Number_in_a_Consecutive_Unsorted_List.md)
 - [Find the stray number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_stray_number.md)
 - [Fizz Buzz](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Fizz_Buzz.md)
+- [Form The Largest](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Largest.md)
 - [Form The Minimum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Minimum.md)
 - [Friend or Foe?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Friend_or_Foe.md)
 - [Get the Middle Character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Get_the_Middle_Character.md)
@@ -112,6 +115,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Isograms](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Isograms.md)
 - [Jaden Casing Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Jaden_Casing_Strings.md)
 - [Keep the Order](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Keep_the_Order.md)
+- [Largest 5 digit number in a series](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_5_digit_number_in_a_series.md)
 - [Largest Elements](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_Elements.md)
 - [List Filtering](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/List_Filtering.md)
 - [Make a function that does arithmetic!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md)
@@ -129,6 +133,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [Ones and Zeros](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ones_and_Zeros.md)
 - [Ordering the words!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ordering_the_words.md)
 - [Pandemia](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Pandemia.md)
+- [Person Class Bug](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Person_Class_Bug.md)
 - [Player Contact Manager](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Player_Contact_Manager.md)
 - [Polydivisible Numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Polydivisible_Numbers.md)
 - [Populate hash with array keys and default value](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Populate_hash_with_array_keys_and_default_value.md)
@@ -210,6 +215,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 - [If you can't sleep, just count sheep!!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/If_you_can't_sleep_just_count_sheep.md)
 - [Invert values](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Invert_values.md)
 - [Is he gonna survive?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_he_gonna_survive.md)
+- [Is the string uppercase?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_the_string_uppercase.md)
 - [Jenny's secret message](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Jenny_s_secret_message.md)
 - [Job Matching # 1](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Job_Matching_1.md)
 - [Incorrect division method](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Incorrect_division_method.md)
