@@ -7,263 +7,303 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ## 4kyu Katas
 
-- [Human readable duration format](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Human_readable_duration_format.md)
-- [Strip Comments](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Strip_Comments.md)
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**Human readable duration format**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
+| [**Strip Comments**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/4kyuKatas/Strip_Comments.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/) |
+
+<br>
 
 ---
 
 ## 5kyu Katas
 
-- [First non-repeating character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/First_non_repeating_character.md)
-- [Human Readable Time](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Human_Readable_Time.md)
-- [Largest product in a series](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Largest_product_in_a_series.md)
-- [Moving Zeros To The End](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Moving_Zeros_To_The_End.md)
-- [Not very secure](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Not_very_secure.md)
-- [Pete, the baker](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Pete_the_baker.md)
-- [Scramblies](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Scramblies.md)
-- [Simple Pig Latin](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Simple_Pig_Latin.md)
-- [Where my anagrams at?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)
-- [The Hashtag Generator](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/The_Hashtag_Generator.md)
+
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**First non-repeating character**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/First_non_repeating_character.md)  | 1 | `str`, `search` | [link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) |
+| [**Greed is Good**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Greed_is_Good.md)  | 1 | `int`, `array`, `dict`, `list`, `hashmap` | [link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/) |
+| [**Human Readable Time**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Human_Readable_Time.md)  | 2 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52685f7382004e774f0001f7/) |
+| [**Largest product in a series**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Largest_product_in_a_series.md)  | 1 | `int`, `math` | [link](https://www.codewars.com/kata/529872bdd0f550a06b00026e/) |
+| [**Moving Zeros To The End**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Moving_Zeros_To_The_End.md)  | 1 | `array`, `list`, `sort` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/) |
+| [**Not very secure**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Not_very_secure.md)  | 2 | `str`, `valid`, `data types` | [link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/) |
+| [**Pete, the baker**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Pete_the_baker.md)  | 1 | `hashmap`, `dict`, `data types` | [link](https://www.codewars.com/kata/525c65e51bf619685c000059/) |
+| [**Scramblies**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Scramblies.md)  | 1 | `str`, `set`, `data types` | [link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
+| [**Simple Pig Latin**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Simple_Pig_Latin.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
+| [**Where my anagrams at?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)  | 2 | `str`, `array`, `list`, `anagram` | [link](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
+| [**The Hashtag Generator**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/The_Hashtag_Generator.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/52449b062fb80683ec000024/) |
+
+<br>
+
 
 ---
 
 
 ## 6kyu Katas
 
-- [+1 Array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/1_Array.md)
-- [Are you available?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Are_you_available.md)
-- [Array.diff](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Array_diff.md)
-- [Arrh, grabscrab!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)
-- [Bit Counting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Bit_Counting.md)
-- [Break camelCase](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Break_camelCase.md)
-- [CamelCase Method](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/CamelCase_Method.md)
-- [Convert string to camel case](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Convert_string_to_camel_case.md)
-- [Count characters in your string](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_characters_in_your_string.md)
-- [Count letters in string](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_letters_in_string.md)
-- [Count the smiley faces!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_the_smiley_faces.md)
-- [Counting Duplicates](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Counting_Duplicates.md)
-- [Create Phone Number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Create_Phone_Number.md)
-- [Does my number look big in this?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Does_my_number_look_big_in_this.md)
-- [Duplicate Encoder](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)
-- [Drunk friend](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Drunk_friend.md)
-- [Find the Nexus of the Codewars Universe](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_Nexus_of_the_Codewars_Universe.md)
-- [Find the odd int](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)
-- [Find The Parity Outlier](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_The_Parity_Outlier.md)
-- [Find the unique number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)
-- [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Format_a_string_of_names_like_Bart_Lisa_Maggie.md)
-- [Highest Scoring Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Highest_Scoring_Word.md)
-- [Meeting](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Meeting.md)
-- [More Zeros than Ones](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/More_Zeros_than_Ones.md)
-- [New Cashier Does Not Know About Space or Shift](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/New%20Cashier%20Does_Not_Know_About_Space_or_Shift.md)
-- [Replace With Alphabet Position](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replace_With_Alphabet_Position.md)
-- [Replacement](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replacement.md)
-- [Simplify the number!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Simplify_the_number.md)
-- [Sort the odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)
-- [Split Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Split_Strings.md)
-- [Stop gninnipS My sdroW!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Stop_gninnipS_My_sdroW.md)
-- [Sum of a Sequence (Hard-Core Version)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)
-- [Sum of Digits / Digital Root](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)
-- [Sums of Parts](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sums_of_Parts.md)
-- [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka.md)
-- [Title Case](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Title_Case.md)
-- [Unique In Order](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Unique_In_Order.md)
-- [What will be the odd one out?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/What_will_be_the_odd_one_out.md)
-- [Which are in?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Which_are_in.md)
-- [Write Number in Expanded Form](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Write_Number_in_Expanded_Form.md)
-- [Your order, please](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Your_order_please.md)
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**+1 Array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/1_Array.md)  | 1 | `array`, `list`, `data types` | [link](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/) |
+| [**Are you available?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Are_you_available.md)  | 1 | `array`, `list`, `time` | [link](https://www.codewars.com/kata/5603002927a683441f0000cb/) |
+| [**Array.diff**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Array_diff.md)  | 2 | `array`, `list`, `data types` | [link](https://www.codewars.com/kata/523f5d21c841566fde000009/) |
+| [**Arrh, grabscrab!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Arrh_grabscrab.md)  | 2 | `str`, `array`, `list`, `dict`, `search`, `data types` | [link](https://www.codewars.com/kata/52b305bec65ea40fe90007a7) |
+| [**Bit Counting**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Bit_Counting.md)  | 1 | `int`, `binary`, `data types` | [link](https://www.codewars.com/kata/526571aae218b8ee490006f4) |
+| [**Break camelCase**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Break_camelCase.md)  | 1 | `str`, `format`, `data types` | [link](https://www.codewars.com/kata/5208f99aee097e6552000148) |
+| [**CamelCase Method**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/CamelCase_Method.md)  | 2 | `str`, `format`, `data types` | [link](https://www.codewars.com/kata/587731fda577b3d1b0001196) |
+| [**Convert string to camel case**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Convert_string_to_camel_case.md)  | 2 | `str`, `format`, `data types` | [link](https://www.codewars.com/kata/517abf86da9663f1d2000003/) |
+| [**Count characters in your string**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_characters_in_your_string.md)  | 1 | `str`, `dict`, `hashmap`, `data types` | [link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/) |
+| [**Count letters in string**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_letters_in_string.md)  | 2 | `str`, `dict`, `hashmap`, `data types` | [link](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d) |
+| [**Count the smiley faces!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Count_the_smiley_faces.md)  | 1 | `str`, `array`, `list`, `data types` | [link](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
+| [**Counting Duplicates**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Counting_Duplicates.md)  | 1 | `str`, `dict`, `hashmap`, `data types` | [link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) |
+| [**Create Phone Number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Create_Phone_Number.md)  | 2 | `str`, `format`, `array`, `list`, `data types` | [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |
+| [**Does my number look big in this?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Does_my_number_look_big_in_this.md)  | 1 | `int`, `math` | [link](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
+| [**Duplicate Encoder**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Duplicate_Encoder.md)  | 1 | `str`, `format`, `array`, `list` | [link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
+| [**Drunk friend**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Drunk_friend.md)  | 1 | `str`, `format`, `decode` | [link](https://www.codewars.com/kata/558ffec0f0584f24250000a0) |
+| [**Find the Nexus of the Codewars Universe**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_Nexus_of_the_Codewars_Universe.md)  | 1 | `dict`, `hashmap` | [link](https://www.codewars.com/kata/5453dce502949307cf000bff) |
+| [**Find the odd int**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_odd_int.md)  | 1 | `array`, `list`, `search` | [link](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
+| [**Find The Parity Outlier**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_The_Parity_Outlier.md)  | 1 | `array`, `list`, `search` | [link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
+| [**Find the unique number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Find_the_unique_number.md)  | 1 | `array`, `list`, `int` | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
+| [**Format a string of names like 'Bart, Lisa & Maggie'**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Format_a_string_of_names_like_Bart_Lisa_Maggie.md)  | 1 | `str`, `dict`, `hashmap`, `format` | [link](https://www.codewars.com/kata/53368a47e38700bd8300030d/) |
+| [**Highest Scoring Word**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Highest_Scoring_Word.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/) |
+| [**Meeting**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Meeting.md)  | 2 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/59df2f8f08c6cec835000012/) |
+| [**More Zeros than Ones**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/More_Zeros_than_Ones.md)  | 1 | `str`, `binary`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a) |
+| [**New Cashier Does Not Know About Space or Shift**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/New%20Cashier%20Does_Not_Know_About_Space_or_Shift.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5d23d89906f92a00267bb83d/) |
+| [**Replace With Alphabet Position**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replace_With_Alphabet_Position.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/546f922b54af40e1e90001da) |
+| [**Replacement**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Replacement.md)  | 2 | `int`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/598d89971928a085c000001a/) |
+| [**Simplify the number!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Simplify_the_number.md)  | 1 | `str`, `int`, `format` | [link](https://www.codewars.com/kata/5800b6568f7ddad2c10000ae/) |
+| [**Sort the odd**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sort_the_odd.md)  | 1 | `int`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) |
+| [**Split Strings**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Split_Strings.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/) |
+| [**String array duplicates**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/String_array_duplicates.md)  | 1 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/59f08f89a5e129c543000069/) |
+| [**Stop gninnipS My sdroW!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Stop_gninnipS_My_sdroW.md)  | 1 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/5264d2b162488dc400000001/) |
+| [**Sum of a Sequence (Hard-Core Version)**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_a_Sequence_Hard-Core_Version.md)  | 2 | `str`, `array`, `list`, `math` | [link](https://www.codewars.com/kata/587a88a208236efe8500008b) |
+| [**Sum of Digits / Digital Root**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sum_of_Digits_Digital_Root.md)  | 2 | `int`, `math` | [link](https://www.codewars.com/kata/541c8630095125aba6000c00) |
+| [**Sums of Parts**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Sums_of_Parts.md)  | 2 | `int`, `array`, `list` | [link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) |
+| [**Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka.md)  | 2 | `int`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/) |
+| [**The Vowel Code**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/The_Vowel_Code.md)  | 2 | `str` | [link](https://www.codewars.com/kata/53697be005f803751e0015aa/) |
+| [**Title Case**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Title_Case.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5202ef17a402dd033c000009/) |
+| [**Unique In Order**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Unique_In_Order.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/54e6533c92449cc251001667/) |
+| [**What will be the odd one out?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/What_will_be_the_odd_one_out.md)  | 2 | `str`, `array`, `list`, `dict`, `sort` | [link](https://www.codewars.com/kata/55b080eabb080cd6f8000035) |
+| [**Which are in?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Which_are_in.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/550554fd08b86f84fe000a58) |
+| [**Write Number in Expanded Form**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Write_Number_in_Expanded_Form.md)  | 1 | `str`, `int`, `format` | [link](https://www.codewars.com/kata/5842df8ccbd22792a4000245) |
+| [**Your order, please**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Your_order_please.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/) |
+
+
+
+<br>
 
 ---
 
 ## 7kyu Katas
 
-- [Anagram Detection](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Anagram_Detection.md)
-- [Are the numbers in order?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Are_the_numbers_in_order.md)
-- [Balanced Number (Special Numbers Series # 1 )](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Balanced_Number_Special_Numbers_Series_1.md)
-- [Beginner Series # 3 Sum of Numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Beginner_Series_3_Sum_of_Numbers.md)
-- [Building Strings From a Hash](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Building_Strings_From_a_Hash.md)
-- [Calculate Meal Total](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Calculate_Meal_Total.md)
-- [Categorize New Member](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Categorize_New_Member.md)
-- [char_to_ascii](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/char_to_ascii.md)
-- [Check digit](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Check_digit.md)
-- [Colour Association](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Colour_Association.md)
-- [Combine objects](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Combine_objects.md)
-- [Complete The Pattern # 1](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Complete_The_Pattern_1.md)
-- [Convert boolean values to strings 'Yes' or 'No'](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Convert_boolean_values_to_strings_Yes_or_No.md)
-- [Convert Hash To An Array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Convert_Hash_To_An_Array.md)
-- [Count the divisors of a number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Count_the_divisors_of_a_number.md)
-- [Credit Card Mask](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Credit_Card_Mask.md)
-- [Descending Order](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Descending_Order.md)
-- [Disemvowel Trolls](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Disemvowel_Trolls.md)
-- [Elevator Distance](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Elevator_Distance.md)
-- [Exes and Ohs](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Exes_and_Ohs.md)
-- [Find all occurrences of an element in an array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_all_occurrences_of_an_element_in_an_array.md)
-- [Find the capitals](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_capitals.md)
-- [Find the divisors!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_divisors.md)
-- [Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_The_Duplicated_Number_in_a_Consecutive_Unsorted_List.md)
-- [Find the stray number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_stray_number.md)
-- [Fizz Buzz](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Fizz_Buzz.md)
-- [Form The Largest](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Largest.md)
-- [Form The Minimum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Minimum.md)
-- [Friend or Foe?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Friend_or_Foe.md)
-- [Get the Middle Character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Get_the_Middle_Character.md)
-- [Help Bob count letters and digits](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Help_Bob_count_letters_and_digits.md)
-- [Highest and Lowest](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Highest_and_Lowest.md)
-- [How much will you spend?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/How_much_will_you_spend.md)
-- [HTML Generator](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/HTML_Generator.md)
-- [Inverting a Hash](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Inverting_a_Hash.md)
-- [Is this a triangle?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Is_this_a_triangle.md)
-- [Isograms](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Isograms.md)
-- [Jaden Casing Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Jaden_Casing_Strings.md)
-- [Keep the Order](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Keep_the_Order.md)
-- [Largest 5 digit number in a series](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_5_digit_number_in_a_series.md)
-- [Largest Elements](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_Elements.md)
-- [List Filtering](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/List_Filtering.md)
-- [Make a function that does arithmetic!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md)
-- [Maximum Multiple](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Maximum_Multiple.md)
-- [Most sales](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Most_sales.md)
-- [Most valuable character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Most_valuable_character.md)
-- [Moves in squared strings (I)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Moves_in_squared_strings_I.md)
-- [Mumbling](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Mumbling.md)
-- [My Languages](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/My_Languages.md)
-- [Naughty or Nice](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Naughty_or_Nice.md)
-- [No Loops 2 - You only need one](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/No_Loops_1_Small_enough.md)
-- [Number Of Occurrences](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Number_Of_Occurrences.md)
-- [Number of People in the Bus](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Number_of_People_in_the_Bus.md)
-- [Odd or Even?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Odd_or_Even.md)
-- [Ones and Zeros](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ones_and_Zeros.md)
-- [Ordering the words!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ordering_the_words.md)
-- [Pandemia](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Pandemia.md)
-- [Person Class Bug](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Person_Class_Bug.md)
-- [Player Contact Manager](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Player_Contact_Manager.md)
-- [Polydivisible Numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Polydivisible_Numbers.md)
-- [Populate hash with array keys and default value](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Populate_hash_with_array_keys_and_default_value.md)
-- [Product Of Maximums Of Array (Array Series # 2)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Product_Of_Maximums_Of_Array_Array_Series_2.md)
-- [Regexp Basics - is it a vowel?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Regexp_Basics_is_it_a_vowel.md)
-- [Remove anchor from URL](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md)
-- [Remove duplicate words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_duplicate_words.md)
-- [Remove the minimum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_the_minimum.md)
-- [Return the closest number multiple of 10](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Return_the_closest_number_multiple_of_10.md)
-- [Reverse a Number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Reverse_a_Number.md)
-- [Reverse words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Reverse_words.md)
-- [Selective fear of numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Selective_fear_of_numbers.md)
-- [Shortest Word](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md)
-- [Square Every Digit](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Square_Every_Digit.md)
-- [Sort array by string length](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md)
-- [Sort Out The Men From Boys](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_Out_The_Men_From_Boys.md)
-- [Special Number (Special Numbers Series # 5)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Special_Number_Special_Numbers_Series_5.md)
-- [String ends with?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/String_ends_with.md)
-- [STRONGN Strong Number (Special Numbers Series # 2)](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/STRONGN_Strong_Number_Special_Numbers_Series_2.md)
-- [Sum of angles](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_angles.md)
-- [Sum of Minimums!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_Minimums.md)
-- [Sum of a sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_a_sequence.md)
-- [Sum of two lowest positive integers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_two_lowest_positive_integers.md)
-- [Summing a number's digits](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Summing_a_numbers_digits.md)
-- [Testing 1-2-3](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Testing_1_2_3.md)
-- [The highest profit wins!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/The_highest_profit_wins.md)
-- [Two Oldest Ages](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Two_Oldest_Ages.md)
-- [Two to One](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Two_to_One.md)
-- ["Very Even" Numbers](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Very_Even_Numbers.md)
-- [Vowel Count](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md)
-- [What time is it?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/What_time_is_it.md)
+<br>
+
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**Anagram Detection**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Anagram_Detection.md) | 2 | `str`, `anagram` | [link](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) |
+| [**Are the numbers in order?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Are_the_numbers_in_order.md) | 1 | `str`, `sort` | [link](https://www.codewars.com/kata/56b7f2f3f18876033f000307/) |
+| [**Balanced Number (Special Numbers Series # 1 )**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Balanced_Number_Special_Numbers_Series_1.md) | 3 | `int`, `math` | [link](https://www.codewars.com/kata/5a4e3782880385ba68000018) |
+| [**Beginner Series # 3 Sum of Numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Beginner_Series_3_Sum_of_Numbers.md) | 1 | `int`, `math` | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/) |
+| [**Building Strings From a Hash**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Building_Strings_From_a_Hash.md) | 1 | `str`, `dict`, `hashmap`, `sort` | [link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2) |
+| [**Calculate Meal Total**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Calculate_Meal_Total.md) | 1 | `int`, `float`, `math` | [link](https://www.codewars.com/kata/58545549b45c01ccab00058c/) |
+| [**Categorize New Member**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Categorize_New_Member.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |
+| [**char_to_ascii**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/char_to_ascii.md) | 1 | `str`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/55e9529cbdc3b29d8c000016) |
+| [**Check digit**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Check_digit.md) | 1 | `str`, `int`, `index` | [link](https://www.codewars.com/kata/5a2e8c0955519e54bf0000bd/) |
+| [**Colour Association**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Colour_Association.md) | 1 | `str`, `dict`, `array`, `hashmap`, `list` | [link](https://www.codewars.com/kata/56d6b7e43e8186c228000637) |
+| [**Combine objects**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Combine_objects.md) | 1 | `dict`, `hashmap` | [link](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819) |
+| [**Complete The Pattern # 1**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Complete_The_Pattern_1.md) | 1 | `array`, `list`, `str` | [link](https://www.codewars.com/kata/5572f7c346eb58ae9c000047) |
+| [**Convert boolean values to strings 'Yes' or 'No'**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Convert_boolean_values_to_strings_Yes_or_No.md) | 1 | `str`, `bool` | [link](https://www.codewars.com/kata/53369039d7ab3ac506000467) |
+| [**Convert Hash To An Array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Convert_Hash_To_An_Array.md) | 1 | `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/59557b2a6e595316ab000046) |
+| [**Count the divisors of a number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Count_the_divisors_of_a_number.md) | 1 | `int`, `math` | [link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/) |
+| [**Credit Card Mask**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Credit_Card_Mask.md) | 1 | `str`, `hashmap` | [link](https://www.codewars.com/kata/5412509bd436bd33920011bc) |
+| [**Descending Order**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Descending_Order.md) | 1 | `int`, `array`, `str`, `list`, `sort` | [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/) |
+| [**Disemvowel Trolls**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Disemvowel_Trolls.md) | 2 | `array`, `str`, `list` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
+| [**Elevator Distance**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Elevator_Distance.md) | 2 | `int`, `array`, `list` | [link](https://www.codewars.com/kata/59f061773e532d0c87000d16/) |
+| [**Exes and Ohs**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Exes_and_Ohs.md) | 2 | `str` | [link](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
+| [**Find all occurrences of an element in an array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Exes_and_Ohs.md) | 2 | `str` | [link](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
+| [**Find the capitals**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_capitals.md) | 2 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/539ee3b6757843632d00026b/) |
+| [**Find the divisors!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_divisors.md) | 2 | `array`, `list` | [link](https://www.codewars.com/kata/544aed4c4a30184e960010f4) |
+| [**Find The Duplicated Number in a Consecutive Unsorted List**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_The_Duplicated_Number_in_a_Consecutive_Unsorted_List.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001/) |
+| [**Find the middle element**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_middle_element.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/) |
+| [**Find the stray number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Find_the_stray_number.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/57f609022f4d534f05000024) |
+| [**Fizz Buzz**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Fizz_Buzz.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/5300901726d12b80e8000498/) |
+| [**Form The Largest**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Largest.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) |
+| [**Form The Minimum**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Form_The_Minimum.md) | 2 | `str`, `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) |
+| [**Friend or Foe?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Friend_or_Foe.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/55b42574ff091733d900002f) |
+| [**Get the Middle Character**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Get_the_Middle_Character.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/56747fd5cb988479af000028/) |
+| [**Help Bob count letters and digits**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Help_Bob_count_letters_and_digits.md) | 1 | `str`,`array`, `list` | [link](https://www.codewars.com/kata/5738f5ea9545204cec000155) |
+| [**Highest and Lowest**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Highest_and_Lowest.md) | 1 | `str`,`array`, `list` | [link](https://www.codewars.com/kata/554b4ac871d6813a03000035) |
+| [**How much will you spend?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/How_much_will_you_spend.md) | 1 | `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/585d7b4685151614190001fd/) |
+| [**HTML Generator**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/HTML_Generator.md) | 2 | `str`, `format` | [link](https://www.codewars.com/kata/54eecc187f9142cc4600119e/) |
+| [**Inverting a Hash**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Inverting_a_Hash.md) | 1 | `dict`, `hashmap` | [link](https://www.codewars.com/kata/5b5604e26dc79e6832000101) |
+| [**Is this a triangle?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Is_this_a_triangle.md) | 1 | `int`, `math` | [link](https://www.codewars.com/kata/56606694ec01347ce800001b) |
+| [**Isograms**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Isograms.md) | 2 | `str`, `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/54ba84be607a92aa900000f1) |
+| [**Jaden Casing Strings**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Jaden_Casing_Strings.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/) |
+| [**Keep the Order**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Keep_the_Order.md) | 1 | `int`, `sort`, `numbers`, `array`, `list` | [link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7/) |
+| [**Largest 5 digit number in a series**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_5_digit_number_in_a_series.md) | 1 | `int`, `sort`, `numbers`, `array`, `list` | [link](https://www.codewars.com/kata/51675d17e0c1bed195000001) |
+| [**Largest Elements**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_Elements.md) | 1 | `int`, `sort`, `numbers`, `array`, `list` | [link](https://www.codewars.com/kata/53d32bea2f2a21f666000256/) |
+| [**Largest pair sum in array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Largest_pair_sum_in_array.md)  | 1 | `array`, `list`, `sort` | [link](https://www.codewars.com/kata/556196a6091a7e7f58000018/) |
+| [**List Filtering**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/List_Filtering.md) | 1 | `str`, `int`, `sort`, `numbers`, `array`, `list` | [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/) |
+| [**Make a function that does arithmetic!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Make_a_function_that_does_arithmetic.md) | 1 | `str`, `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) |
+| [**Maximum Multiple**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Maximum_Multiple.md) | 2 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/57f609022f4d534f05000024) |
+| [**Most sales**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Most_sales.md) | 1 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/5e030f77cec18900322c535d) |
+| [**Most valuable character**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Most_valuable_character.md) | 1 | `str`, `dict`, `hashmap`, `list`, `array`, `lambda` | [link](https://www.codewars.com/kata/5dd5128f16eced000e4c42ba) |
+| [**Moves in squared strings (I)**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Moves_in_squared_strings_I.md) | 1 | `str`, `sort`, `list`, `array` | [link](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) |
+| [**Mumbling**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Mumbling.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) |
+| [**My Languages**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/My_Languages.md) | 1 | `dict`, `hashmap`, `list`, `array`, `sort`, `lambda` | [link](https://www.codewars.com/kata/5b16490986b6d336c900007d) |
+| [**Naughty or Nice**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Naughty_or_Nice.md) | 1 | `str`, `dict`, `hashmap`, `json` | [link](https://www.codewars.com/kata/5662b14e0a1fb8320a00005c) |
+| [**No Loops 2 - You only need one**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/No_Loops_1_Small_enough.md) | 1 | `boolean`, `int`, `numbers` | [link](https://www.codewars.com/kata/no-loops-1-small-enough) |
+| [**Number Of Occurrences**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Number_Of_Occurrences.md) | 1 | `int`, `numbers`, `list`, `array`, `search` | [link](https://www.codewars.com/kata/52829c5fe08baf7edc00122b) |
+| [**Number of People in the Bus**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Number_of_People_in_the_Bus.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) |
+| [**Odd or Even?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Odd_or_Even.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5949481f86420f59480000e7) |
+| [**Ones and Zeros**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ones_and_Zeros.md) | 1 | `int`, `numbers`, `list`, `array`, `binary` | [link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) |
+| [**Ordering the words!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Ordering_the_words.md) | 1 | `str`, `sort`, `list`, `array` | [link](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070/) |
+| [**Pandemia**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Pandemia.md) | 1 | `str` | [link](https://www.codewars.com/kata/5e2596a9ad937f002e510435) |
+| [**Person Class Bug**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Person_Class_Bug.md) | 1 | `class`, `oop`, `str` | [link](https://www.codewars.com/kata/513f887e484edf3eb3000001) |
+| [**Player Contact Manager**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Player_Contact_Manager.md) | 1 | `dict`, `hashmap`, `json`, `list`, `array` | [link](https://www.codewars.com/kata/5b203de891c7469b520000b4) |
+| [**Polydivisible Numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Polydivisible_Numbers.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/5e4217e476126b000170489b/) |
+| [**Populate hash with array keys and default value**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Populate_hash_with_array_keys_and_default_value.md) | 2 | `dict`, `hashmap`, `list`, `array`, `json` | [link](https://www.codewars.com/kata/51c38e14ea1c97ffaf000003) |
+| [**Product Of Maximums Of Array (Array Series # 2)**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Product_Of_Maximums_Of_Array_Array_Series_2.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/5a63948acadebff56f000018) |
+| [**Regexp Basics - is it a vowel?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Regexp_Basics_is_it_a_vowel.md) | 1 | `str` | [link](https://www.codewars.com/kata/567bed99ee3451292c000025) |
+| [**Remove anchor from URL**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_anchor_from_URL.md) | 3 | `str`, `search`, `format` | [link](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) |
+| [**Remove duplicate words**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_duplicate_words.md) | 2 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc) |
+| [**Remove the minimum**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Remove_the_minimum.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/) |
+| [**Return the closest number multiple of 10**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Return_the_closest_number_multiple_of_10.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4) |
+| [**Reverse a Number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Reverse_a_Number.md) | 1 | `str`, `int`, `numbers`, `sort` | [link](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/) |
+| [**Reverse words**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Reverse_words.md) | 1 | `str`, `list`, `array`, `format` | [link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/) |
+| [**Selective fear of numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Selective_fear_of_numbers.md) | 1 | `str`, `control flow`, `numbers`, `int` | [link](https://www.codewars.com/kata/55b1fd84a24ad00b32000075/) |
+| [**Shortest Word**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Shortest_Word.md) | 1 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) |
+| [**Square Every Digit**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Square_Every_Digit.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/546e2562b03326a88e000020) |
+| [**Sort array by string length**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_array_by_string_length.md) | 3 | `str`, `list`, `array`, `sort` | [link](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c) |
+| [**Sort Out The Men From Boys**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sort_Out_The_Men_From_Boys.md) | 2 | `list`, `array`, `set`, `sort`, `lambda`  | [link](https://www.codewars.com/kata/5af15a37de4c7f223e00012d/) |
+| [**Special Number (Special Numbers Series # 5)**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Special_Number_Special_Numbers_Series_5.md) | 2 | `int`, `number`, `list`, `array` | [link](https://www.codewars.com/kata/5a55f04be6be383a50000187) |
+| [**String ends with?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/String_ends_with.md) | 1 | `str`, `search` | [link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/) |
+| [**STRONGN Strong Number (Special Numbers Series # 2)**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/STRONGN_Strong_Number_Special_Numbers_Series_2.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5a4d303f880385399b000001) |
+| [**Sum of angles**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_angles.md) | 1 | `int`, `numbers`, `geometry` | [link](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
+| [**Sum of Minimums!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_Minimums.md) | 2 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699) |
+| [**Sum of a sequence**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_a_sequence.md) | 2 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/586f6741c66d18c22800010a) |
+| [**Sum of two lowest positive integers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Sum_of_two_lowest_positive_integers.md) | 1 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
+| [**Summing a number's digits**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Summing_a_numbers_digits.md) | 1 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/52f3149496de55aded000410/) |
+| [**Testing 1-2-3**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Testing_1_2_3.md) | 1 | `str`, `list`, `array`, `format` | [link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) |
+| [**The highest profit wins!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/The_highest_profit_wins.md) | 1 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/559590633066759614000063) |
+| [**Two Oldest Ages**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Two_Oldest_Ages.md) | 1 | `int`, `numbers`, `list`, `array`, `sort` | [link](https://www.codewars.com/kata/511f11d355fe575d2c000001/) |
+| [**Two to One**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Two_to_One.md) | 1 | `str`, `format`, `list`, `array`, `sort`, `set` | [link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/) |
+| [**"Very Even" Numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Very_Even_Numbers.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/58c9322bedb4235468000019) |
+| [**Vowel Count**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md) | 2 | `str`, `search`, `list`, `array` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
+| [**What time is it?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/What_time_is_it.md) | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
+
+
+<br>
 
 ---
 
 ## 8kyu Katas
 
-- [A Needle in the Haystack](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/A_Needle_in_the_Haystack.md)
-- [Abbreviate a Two Word Name](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Abbreviate_a_Two_Word_Name.md)
-- [All Star Code Challenge # 18](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/All_Star_Code_Challenge_18.md)
-- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/altERnaTIng_cAsE_ALTerNAtiNG_CaSe.md)
-- [Are You Playing Banjo?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Are_You_Playing_Banjo.md)
-- [Array plus array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Array_plus_array.md)
-- [Basic Mathematical Operations](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Basic_Mathematical_Operations.md)
-- [Beginner - Reduce but Grow](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Reduce_but_Grow.md)
-- [Beginner Series # 1 School Paperwork](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_1_School_Paperwork.md)
-- [Beginner Series # 2 Clock](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_2_Clock.md)
-- [Calculate average](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Calculate_average.md)
-- [Calculate BMI](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Calculate_BMI.md)
-- [Century From Year](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Century_From_Year.md)
-- [Classy Classes](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Classy_Classes.md)
-- [Convert a Number to a String!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_Number_to_a_String.md)
-- [Convert number to reversed array of digits](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_number_to_reversed_array_of_digits.md)
-- [Convert a string to an array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_string_to_an_array.md)
-- [Correct the mistakes of the character recognition software](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Correct_the_mistakes_of_the_character_recognition_software.md)
-- [Convert a String to a Number!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_String_to_a_Number.md)
-- [Count by X](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_by_X.md)
-- [Count Odd Numbers below n](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_Odd_Numbers_below_n.md)
-- [Count of positives / sum of negatives](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_of_positives_sum_of_negatives.md)
-- [Count the Monkeys!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_the_Monkeys.md)
-- [Do I get a bonus?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Do_I_get_a_bonus.md)
-- [Double Char](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Double_Char.md)
-- [Enumerable Magic # 25 - Take the First N Elements](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Enumerable_Magic_25_Take_the_First_N_Elements.md)
-- [Even or Odd](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Even_or_Odd.md)
-- [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.md)
-- [Find Maximum and Minimum Values of a List](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_Maximum_and_Minimum_Values_of_a_List.md)
-- [Find numbers which are divisible by given number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_numbers_which_are_divisible_by_given_number.md)
-- [Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_Difference_in_Age_between_Oldest_and_Youngest_Family_Members.md)
-- [Find the first non-consecutive number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_first_non_consecutive_number.md)
-- [Find the smallest integer in the array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_smallest_integer_in_the_array.md)
-- [Function 1 - hello world](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Function_1_hello_world.md)
-- [get character from ASCII Value](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/get_character_from_ASCII_Value.md)
-- [Get the mean of an array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Get_the_mean_of_an_array.md)
-- [Grasshopper - Check for factor](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Check_for_factor.md)
-- [Grasshopper - Grade book](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Grade_book.md)
-- [Grasshopper - Messi goals function](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Messi_goals_function.md)
-- [Grasshopper - Summation](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Summation.md)
-- [How good are you really?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/How_good_are_you_really.md)
-- [I love you, a little , a lot, passionately ... not at all](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/I_love_you_a_little_a%20lot_passionately_not_at_all.md)
-- [If you can't sleep, just count sheep!!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/If_you_can't_sleep_just_count_sheep.md)
-- [Invert values](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Invert_values.md)
-- [Is he gonna survive?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_he_gonna_survive.md)
-- [Is the string uppercase?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_the_string_uppercase.md)
-- [Jenny's secret message](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Jenny_s_secret_message.md)
-- [Job Matching # 1](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Job_Matching_1.md)
-- [Incorrect division method](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Incorrect_division_method.md)
-- [Is n divisible by x and y?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_n_divisible_by_x_and_y.md)
-- [Keep Hydrated!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Keep_Hydrated.md)
-- [Keep up the hoop](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Keep_up_the_hoop.md)
-- [L1: Bartender, drinks!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/L1_Bartender_drinks.md)
-- [L1: Set Alarm](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/L1_Set_Alarm.md)
-- [Leonardo Dicaprio and Oscars](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Leonardo_Dicaprio_and_Oscars.md)
-- [MakeUpperCase](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/MakeUpperCase.md)
-- [Multiply](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Multiply.md)
-- [N-th Power](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Nth_Power.md)
-- [No Loops 2 - You only need one](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/No_Loops_2_You_only_need_one.md)
-- [No zeros for heros](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/No_zeros_for_heros.md)
-- [noobCode 01: SUPERSIZE ME.... or rather, this integer!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/noobCode_01_SUPERSIZE_ME_or_rather_this_integer.md)
-- [Opposite number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Opposite_number.md)
-- [Palindrome Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Palindrome_Strings.md)
-- [Pizza Comparison](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Pizza_Comparison.md)
-- [Polish alphabet](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Polish_alphabet.md)
-- [Regex count lowercase letters](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Regex_count_lowercase_letters.md)
-- [Remove exclamation marks](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_exclamation_marks.md)
-- [Remove First and Last Character](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_First_and_Last_Character.md)
-- [Remove String Spaces](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_String_Spaces.md)
-- [Removing Elements](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Removing_Elements.md)
-- [Reversed Words](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Words.md)
-- [Return Negative](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Return_Negative.md)
-- [Returning Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Returning_Strings.md)
-- [Reversed sequence](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_sequence.md)
-- [Reversed Strings](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Strings.md)
-- [Sentence Smash](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sentence_Smash.md)
-- [Sort and Star](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sort_and_Star.md)
-- [Squash the bugs](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Squash_the_bugs.md)
-- [Square(n) Sum](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Square_n_Sum.md)
-- [String repeat](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/String_repeat.md)
-- [Sum Arrays](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_Arrays.md)
-- [Sum Mixed Array](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_Mixed_Array.md)
-- [Sum of positive](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_of_positive.md)
-- [Sum without highest and lowest number](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_without_highest_and_lowest_number.md)
-- [Swap Values](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Swap_Values.md)
-- [The Feast of Many Beasts](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/The_Feast_of_Many_Beasts.md)
-- [The Wide-Mouthed frog!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/The_Wide-Mouthed_frog.md)
-- [Third Angle of a Triangle](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Third_Angle_of_a_Triangle.md)
-- [Total amount of points](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Total_amount_of_points.md)
-- [Transportation on vacation](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Transportation_on_vacation.md)
-- [Volume of a Cuboid](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Volume_of_a_Cuboid.md)
-- [Vowel remover](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Vowel_remover.md)
-- [Welcome!](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Welcome.md)
-- [What's the real floor?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Whats_the_real_floor.md)
-- [Will there be enough space?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Will_here_be_enough_space.md)
-- [Will you make it?](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Will_you_make_it.md)
-- [You only need one - Beginner](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/You_only_need_one_Beginner.md)
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**A Needle in the Haystack**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/A_Needle_in_the_Haystack.md) | 1 | `str`, `search`, `list`, `array` | [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) |
+| [**Abbreviate a Two Word Name**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Abbreviate_a_Two_Word_Name.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) |
+| [**All Star Code Challenge # 18**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/All_Star_Code_Challenge_18.md) | 1 | `str` | [link](https://www.codewars.com/kata/5865918c6b569962950002a1/) |
+| [**altERnaTIng cAsE <=> ALTerNAtiNG CaSe**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/altERnaTIng_cAsE_ALTerNAtiNG_CaSe.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/56efc695740d30f963000557/) |
+| [**Are You Playing Banjo?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Are_You_Playing_Banjo.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832/) |
+| [**Array plus array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Array_plus_array.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
+| [**Basic Mathematical Operations**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Basic_Mathematical_Operations.md) | 1 | `dict`, `hashmap`, `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/) |
+| [**Beginner - Reduce but Grow**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Reduce_but_Grow.md) | 1 | `int`, `numbers`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078) |
+| [**Beginner Series # 1 School Paperwork**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_1_School_Paperwork.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/) |
+| [**Beginner Series # 2 Clock**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Beginner_Series_2_Clock.md) | 2 | `int`, `numbers`, `arithmetic`, `time` | [link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) |
+| [**Calculate average**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Calculate_average.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) |
+| [**Calculate BMI**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Calculate_BMI.md) | 2 | `int`, `numbers`, `control flow` | [link](https://www.codewars.com/kata/57a429e253ba3381850000fb/) |
+| [**Century From Year**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Century_From_Year.md) | 2 | `int`, `numbers`, `control flow` | [link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) |
+| [**Classy Classes**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Classy_Classes.md) | 1 | `class`, `oop`, `str`, `format` | [link](https://www.codewars.com/kata/55a144eff5124e546400005a/) |
+| [**Convert a Number to a String!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_Number_to_a_String.md) | 1 | `str`, `int` | [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) |
+| [**Convert number to reversed array of digits**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_number_to_reversed_array_of_digits.md) | 2 | `str`, `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) |
+| [**Convert a string to an array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_string_to_an_array.md) | 1 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
+| [**Correct the mistakes of the character recognition software**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Correct_the_mistakes_of_the_character_recognition_software.md) | 3 | `str`, `format` | [link](https://www.codewars.com/kata/577bd026df78c19bca0002c0) |
+| [**Convert a String to a Number!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Convert_a_String_to_a_Number.md) | 1 | `str`, `int`, `numbers` | [link](https://www.codewars.com/kata/544675c6f971f7399a000e79/) |
+| [**Count by X**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_by_X.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/) |
+| [**Count Odd Numbers below n**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_Odd_Numbers_below_n.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/59342039eb450e39970000a6/) |
+| [**Count of positives / sum of negatives**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_of_positives_sum_of_negatives.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/) |
+| [**Count the Monkeys!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Count_the_Monkeys.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) |
+| [**Do I get a bonus?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Do_I_get_a_bonus.md) | 2 | `str`, `format` | [link](https://www.codewars.com/kata/56f6ad906b88de513f000d96/) |
+| [**Double Char**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Double_Char.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/56b1f01c247c01db92000076) |
+| [**Enumerable Magic # 25 - Take the First N Elements**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Enumerable_Magic_25_Take_the_First_N_Elements.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/545afd0761aa4c3055001386/) |
+| [**Even or Odd**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Even_or_Odd.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) |
+| [**Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/) |
+| [**Find Maximum and Minimum Values of a List**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_Maximum_and_Minimum_Values_of_a_List.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/577a98a6ae28071780000989/) |
+| [**Find numbers which are divisible by given number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_numbers_which_are_divisible_by_given_number.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/55edaba99da3a9c84000003b/) |
+| [**Find the Difference in Age between Oldest and Youngest Family Members**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_Difference_in_Age_between_Oldest_and_Youngest_Family_Members.md) | 1 | `int`, `numbers` | [link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2) |
+| [**Find the first non-consecutive number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_first_non_consecutive_number.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/) |
+| [**Find the smallest integer in the array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Find_the_smallest_integer_in_the_array.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) |
+| [**Function 1 - hello world**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Function_1_hello_world.md) | 1 | `str` | [link](https://www.codewars.com/kata/523b4ff7adca849afe000035) |
+| [**get character from ASCII Value**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/get_character_from_ASCII_Value.md) | 1 | `str`, `ascii` | [link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/) |
+| [**Get the mean of an array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Get_the_mean_of_an_array.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/563e320cee5dddcf77000158) |
+| [**Grasshopper - Check for factor**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Check_for_factor.md) | 1 | `str` | [link]() |
+| [**Grasshopper - Grade book**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Grade_book.md) | 1 | `str`, `int`, `numbers`, `control flow` | [link](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) |
+| [**Grasshopper - Messi goals function**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Messi_goals_function.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) |
+| [**Grasshopper - Summation**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Grasshopper_Summation.md) | 1 | `int`, `numbers`, `list`, `array`, `arithmetic` | [link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) |
+| [**Hello, Name or World!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Hello_Name_or_World.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57e3f79c9cb119374600046b) |
+| [**How good are you really?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/How_good_are_you_really.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/5601409514fc93442500010b/) |
+| [**I love you, a little , a lot, passionately ... not at all**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/I_love_you_a_little_a%20lot_passionately_not_at_all.md) | 1 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/) |
+| [**If you can't sleep, just count sheep!!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/If_you_can't_sleep_just_count_sheep.md) | 1 | `str`, `format`, `loops` | [link](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) |
+| [**Invert values**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Invert_values.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/) |
+| [**Is he gonna survive?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_he_gonna_survive.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) |
+| [**Is the string uppercase?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_the_string_uppercase.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) |
+| [**Jenny's secret message**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Jenny_s_secret_message.md) | 1 | `str`, `format`, `control flow` | [link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
+| [**Job Matching # 1**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Job_Matching_1.md) | 2 | `dict`, `hashmap`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/56c22c5ae8b139416c00175d) |
+| [**Incorrect division method**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Incorrect_division_method.md) | 1 | `int`, `float`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/54d1c59aba326343c80000e7) |
+| [**Is n divisible by x and y?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Is_n_divisible_by_x_and_y.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/5545f109004975ea66000086) |
+| [**Keep Hydrated!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Keep_Hydrated.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/582cb0224e56e068d800003c) |
+| [**Keep up the hoop**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Keep_up_the_hoop.md) | 1 | `str`, `int`, `control flow` | [link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/) |
+| [**L1: Bartender, drinks!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/L1_Bartender_drinks.md) | 1 | `str`, `dict`, `hashmap`, `control flow` | [link](https://www.codewars.com/kata/568dc014440f03b13900001d) |
+| [**L1: Set Alarm**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/L1_Set_Alarm.md) | 1 | `str`, `control flow` | [link](https://www.codewars.com/kata/568dcc3c7f12767a62000038/) |
+| [**Leonardo Dicaprio and Oscars**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Leonardo_Dicaprio_and_Oscars.md) | 1 | `str`, `int`, `control flow` | [link](https://www.codewars.com/kata/56d49587df52101de70011e4/) |
+| [**MakeUpperCase**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/MakeUpperCase.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/) |
+| [**Multiply**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Multiply.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/50654ddff44f800200000004) |
+| [**N-th Power**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Nth_Power.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/57d814e4950d8489720008db/) |
+| [**No Loops 2 - You only need one**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/No_Loops_2_You_only_need_one.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce) |
+| [**No zeros for heros**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/No_zeros_for_heros.md) | 1 | `str`, `int`, `format`, `loops` | [link](https://www.codewars.com/kata/570a6a46455d08ff8d001002) |
+| [**noobCode 01: SUPERSIZE ME.... or rather, this integer!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/noobCode_01_SUPERSIZE_ME_or_rather_this_integer.md) | 2 | `str`, `int`, `numbers`, `sort`, `list`, `array` | [link](https://www.codewars.com/kata/5709bdd2f088096786000008) |
+| [**Opposite number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Opposite_number.md) | 1 | `int`, `numbers` | [link](https://www.codewars.com/kata/56dec885c54a926dcd001095) |
+| [**Palindrome Strings**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Palindrome_Strings.md) | 1 | `str`, `palindrome` | [link](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/) |
+| [**Pizza Comparison**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Pizza_Comparison.md) | 1 | `int`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/5e2456b1c4d2810023bb14e2) |
+| [**Polish alphabet**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Polish_alphabet.md) | 1 | `str`, `format`, `dict`, `hashmap`, `list`, `array` | [link](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/) |
+| [**Regex count lowercase letters**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Regex_count_lowercase_letters.md) | 2 | `str`, `count` | [link](https://www.codewars.com/kata/56a946cd7bd95ccab2000055/) |
+| [**Remove exclamation marks**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_exclamation_marks.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/) |
+| [**Remove First and Last Character**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_First_and_Last_Character.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
+| [**Remove String Spaces**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Remove_String_Spaces.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) |
+| [**Removing Elements**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Removing_Elements.md) | 2 | `list`, `array` | [link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2) |
+| [**Reversed Words**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Words.md) | 1 | `str`, `sort`, `list`, `array` | [link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/) |
+| [**Return Negative**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Return_Negative.md) | 1 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
+| [**Returning Strings**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Returning_Strings.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/55a70521798b14d4750000a4/) |
+| [**Reversed sequence**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_sequence.md) | 1 | `int`, `numbers`, `list`, `array`, `sort` | [link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) |
+| [**Reversed Strings**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Reversed_Strings.md) | 2 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) |
+| [**Sentence Smash**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sentence_Smash.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/53dc23c68a0c93699800041d/) |
+| [**Sort and Star**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sort_and_Star.md) | 2 | `str`, `format`, `link`, `array` | [link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/) |
+| [**Squash the bugs**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Squash_the_bugs.md) | 2 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/56f173a35b91399a05000cb7) |
+| [**Square(n) Sum**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Square_n_Sum.md) | 1 | `int`, `numbers`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/515e271a311df0350d00000f) |
+| [**String repeat**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/String_repeat.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) |
+| [**Sum Arrays**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_Arrays.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) |
+| [**Sum Mixed Array**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_Mixed_Array.md) | 2 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/57eaeb9578748ff92a000009) |
+| [**Sum of positive**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_of_positive.md) | 1 | `int`, `numbers`, `list`, `array`, `arithmetic` | [link](https://www.codewars.com/kata/5715eaedb436cf5606000381) |
+| [**Sum without highest and lowest number**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Sum_without_highest_and_lowest_number.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/) |
+| [**Swap Values**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Swap_Values.md) | 2 | `list`, `array`, `swap` | [link](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6/) |
+| [**The Feast of Many Beasts**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/The_Feast_of_Many_Beasts.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/5aa736a455f906981800360d) |
+| [**The Wide-Mouthed frog!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/The_Wide-Mouthed_frog.md) | 1 | `str`, `control flow` | [link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) |
+| [**Third Angle of a Triangle**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Third_Angle_of_a_Triangle.md) | 1 | `int`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/5a023c426975981341000014/) |
+| [**Total amount of points**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Total_amount_of_points.md) | 1 | `int`, `list`, `array`, `arithmetic` | [link](https://www.codewars.com/kata/5bb904724c47249b10000131/) |
+| [**Transportation on vacation**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Transportation_on_vacation.md) | 1 | `int`, `numbers`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/568d0dd208ee69389d000016/) |
+| [**Volume of a Cuboid**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Volume_of_a_Cuboid.md) | 1 | `int`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/58261acb22be6e2ed800003a) |
+| [**Vowel remover**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Vowel_remover.md) | 2 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/5547929140907378f9000039) |
+| [**Welcome!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Welcome.md) | 2 | `str`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/577ff15ad648a14b780000e7) |
+| [**What's the real floor?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Whats_the_real_floor.md) | 1 | `int`, `control flow` | [link](https://www.codewars.com/kata/574b3b1599d8f897470018f6) |
+| [**Will there be enough space?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Will_here_be_enough_space.md) | 2 | `int`, `arithmetic` | [link](https://www.codewars.com/kata/5875b200d520904a04000003/) |
+| [**Will you make it?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/Will_you_make_it.md) | 1 | `int`, `arithmetic` | [link](https://www.codewars.com/kata/5861d28f124b35723e00005e/) |
+| [**You only need one - Beginner**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/8kyuKatas/You_only_need_one_Beginner.md) | 1 | `list`, `array` | [link](https://www.codewars.com/kata/57cc975ed542d3148f00015b/) |
