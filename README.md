@@ -34,6 +34,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Pete, the baker**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Pete_the_baker.md)  | 1 | `hashmap`, `dict`, `data types` | [link](https://www.codewars.com/kata/525c65e51bf619685c000059/) |
 | [**Scramblies**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Scramblies.md)  | 1 | `str`, `set`, `data types` | [link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
 | [**Simple Pig Latin**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Simple_Pig_Latin.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
+| [**String incrementer**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/String_incrementer.md)  | 1 | `str`, `format`, `regex` | [link](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) |
 | [**Where my anagrams at?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/Where_my_anagrams_at.md)  | 2 | `str`, `array`, `list`, `anagram` | [link](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
 | [**The Hashtag Generator**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/5kyuKatas/The_Hashtag_Generator.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/52449b062fb80683ec000024/) |
 
