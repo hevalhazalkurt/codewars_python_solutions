@@ -227,6 +227,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**"Very Even" Numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Very_Even_Numbers.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/58c9322bedb4235468000019) |
 | [**Vowel Count**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md) | 2 | `str`, `search`, `list`, `array` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
 | [**What time is it?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/What_time_is_it.md) | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
+| [**Working with Dictionaries**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Working_with_Dictionaries.md) | 3 | `dict`, `hashmap`, `list`, `array` | [link](https://www.codewars.com/kata/5639302a802494696d000077) |
 
 
 <br>
