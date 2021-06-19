@@ -96,6 +96,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka.md)  | 2 | `int`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/) |
 | [**The Vowel Code**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/The_Vowel_Code.md)  | 2 | `str` | [link](https://www.codewars.com/kata/53697be005f803751e0015aa/) |
 | [**Title Case**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Title_Case.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5202ef17a402dd033c000009/) |
+| [**Tracking Sums in a Process**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Tracking_Sums_in_a_Process.md)  | 2 |  `list`, `array` | [link](https://www.codewars.com/kata/56dbb6603e5dd6543c00098d/) |
 | [**Unique In Order**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Unique_In_Order.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/54e6533c92449cc251001667/) |
 | [**What will be the odd one out?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/What_will_be_the_odd_one_out.md)  | 2 | `str`, `array`, `list`, `dict`, `sort` | [link](https://www.codewars.com/kata/55b080eabb080cd6f8000035) |
 | [**Which are in?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/6kyuKatas/Which_are_in.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/550554fd08b86f84fe000a58) |
@@ -228,7 +229,11 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**"Very Even" Numbers**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Very_Even_Numbers.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/58c9322bedb4235468000019) |
 | [**Vowel Count**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md) | 2 | `str`, `search`, `list`, `array` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
 | [**What time is it?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/What_time_is_it.md) | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
+| [**Which triangle is that?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Which_triangle_is_that.md) | 1 | `math`, `tuple`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
 | [**Working with Dictionaries**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Working_with_Dictionaries.md) | 3 | `dict`, `hashmap`, `list`, `array` | [link](https://www.codewars.com/kata/5639302a802494696d000077) |
+
+
+
 
 
 <br>
