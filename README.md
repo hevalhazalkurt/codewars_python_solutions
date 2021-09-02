@@ -238,6 +238,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Vowel Count**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Vowel_Count.md) | 2 | `str`, `search`, `list`, `array` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
 | [**What time is it?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/What_time_is_it.md) | 1 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
 | [**Which triangle is that?**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Which_triangle_is_that.md) | 1 | `math`, `tuple`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/57729a09914da60e17000329) |
+| [**Words to sentence**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Words_to_sentence.md) | 1 | `str`, `list`, `array`, `format` | [link](https://www.codewars.com/kata/5639302a802494696d000077) |
 | [**Working with Dictionaries**](https://github.com/hevalhazalkurt/codewars_python_solutions/blob/master/7kyuKatas/Working_with_Dictionaries.md) | 3 | `dict`, `hashmap`, `list`, `array` | [link](https://www.codewars.com/kata/5639302a802494696d000077) |
 
 
