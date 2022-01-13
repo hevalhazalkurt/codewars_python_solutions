@@ -83,6 +83,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Meeting**](6kyuKatas/Meeting.md)  | 2 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/59df2f8f08c6cec835000012/) |
 | [**Mexican Wave**](6kyuKatas/Mexican_Wave.md)  | 1 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/) |
 | [**More Zeros than Ones**](6kyuKatas/More_Zeros_than_Ones.md)  | 1 | `str`, `binary`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a) |
+| [**Mutual Recursion**](6kyuKatas/Mutual_Recursion.md)  | 1 | `recursion`, `math` | [link](https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b) |
 | [**New Cashier Does Not Know About Space or Shift**](6kyuKatas/New%20Cashier%20Does_Not_Know_About_Space_or_Shift.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5d23d89906f92a00267bb83d/) |
 | [**Pyramid Array**](6kyuKatas/Pyramid_Array.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/515f51d438015969f7000013/) |
 | [**Remove the parentheses**](6kyuKatas/Remove_the_parentheses.md)  | 1 | `str`, `format`, `regex` | [link](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/) |
