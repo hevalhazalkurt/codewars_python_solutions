@@ -78,6 +78,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Find The Parity Outlier**](6kyuKatas/Find_The_Parity_Outlier.md)  | 1 | `array`, `list`, `search` | [link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
 | [**Find the unique number**](6kyuKatas/Find_the_unique_number.md)  | 1 | `array`, `list`, `int` | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
 | [**Format a string of names like 'Bart, Lisa & Maggie'**](6kyuKatas/Format_a_string_of_names_like_Bart_Lisa_Maggie.md)  | 1 | `str`, `dict`, `hashmap`, `format` | [link](https://www.codewars.com/kata/53368a47e38700bd8300030d/) |
+| [**Get recursion limit**](6kyuKatas/Get_recursion_limit.md)  | 1 | `recursion` | [link](https://www.codewars.com/kata/5a1e1b69697598459d000057/) |
 | [**Highest Scoring Word**](6kyuKatas/Highest_Scoring_Word.md)  | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/) |
 | [**Meeting**](6kyuKatas/Meeting.md)  | 2 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/59df2f8f08c6cec835000012/) |
 | [**Mexican Wave**](6kyuKatas/Mexican_Wave.md)  | 1 | `str`, `array`, `list`, `format` | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/) |
