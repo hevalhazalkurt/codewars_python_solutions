@@ -166,6 +166,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Friend or Foe?**](7kyuKatas/Friend_or_Foe.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/55b42574ff091733d900002f) |
 | [**Get the Middle Character**](7kyuKatas/Get_the_Middle_Character.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/56747fd5cb988479af000028/) |
 | [**Help Bob count letters and digits**](7kyuKatas/Help_Bob_count_letters_and_digits.md) | 1 | `str`,`array`, `list` | [link](https://www.codewars.com/kata/5738f5ea9545204cec000155) |
+| [**Hex Hash Sum**](7kyuKatas/Hex_Hash_Sum.md) | 1 | `str`,`array`, `list`, `format` | [link](https://www.codewars.com/kata/5ab363ff6a176b29880000dd) |
 | [**Highest and Lowest**](7kyuKatas/Highest_and_Lowest.md) | 1 | `str`,`array`, `list` | [link](https://www.codewars.com/kata/554b4ac871d6813a03000035) |
 | [**How much will you spend?**](7kyuKatas/How_much_will_you_spend.md) | 1 | `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/585d7b4685151614190001fd/) |
 | [**HTML Generator**](7kyuKatas/HTML_Generator.md) | 2 | `str`, `format` | [link](https://www.codewars.com/kata/54eecc187f9142cc4600119e/) |
