@@ -2,7 +2,7 @@
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.codewars.com/users/hevalhazalkurt)!
 
-##### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more. 
+##### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.
 
 ---
 
@@ -104,6 +104,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**The Vowel Code**](6kyuKatas/The_Vowel_Code.md)  | 2 | `str` | [link](https://www.codewars.com/kata/53697be005f803751e0015aa/) |
 | [**Title Case**](6kyuKatas/Title_Case.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5202ef17a402dd033c000009/) |
 | [**Tracking Sums in a Process**](6kyuKatas/Tracking_Sums_in_a_Process.md)  | 2 |  `list`, `array` | [link](https://www.codewars.com/kata/56dbb6603e5dd6543c00098d/) |
+| [**Turn String Input into Hash**](6kyuKatas/Turn_String_Input_into_Hash.md)  | 1 |  `list`, `array`, `str`, `format`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/52180ce6f626d55cf8000071/) |
 | [**Unique In Order**](6kyuKatas/Unique_In_Order.md)  | 1 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/54e6533c92449cc251001667/) |
 | [**Upside down numbers**](6kyuKatas/Upside_down_numbers.md)  | 1 | `str`, `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/59f7597716049833200001eb/) |
 | [**What will be the odd one out?**](6kyuKatas/What_will_be_the_odd_one_out.md)  | 2 | `str`, `array`, `list`, `dict`, `sort` | [link](https://www.codewars.com/kata/55b080eabb080cd6f8000035) |
