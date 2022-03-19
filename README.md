@@ -212,6 +212,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Remove duplicate words**](7kyuKatas/Remove_duplicate_words.md) | 2 | `str`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc) |
 | [**Remove the minimum**](7kyuKatas/Remove_the_minimum.md) | 1 | `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/) |
 | [**Replace all items**](7kyuKatas/Replace_all_items.md) | 1 | `str`, `format`, `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/57ae18c6e298a7a6d5000c7a/) |
+| [**Responsible Drinking**](7kyuKatas/Responsible_Drinking.md) | 1 | `str`, `format`, `int`, `numbers`, `list`, `array` | [link](https://www.codewars.com/kata/5aee86c5783bb432cd000018/) |
 | [**Return the closest number multiple of 10**](7kyuKatas/Return_the_closest_number_multiple_of_10.md) | 2 | `int`, `numbers`, `arithmetic` | [link](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4) |
 | [**Reverse a Number**](7kyuKatas/Reverse_a_Number.md) | 1 | `str`, `int`, `numbers`, `sort` | [link](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/) |
 | [**Reverse words**](7kyuKatas/Reverse_words.md) | 1 | `str`, `list`, `array`, `format` | [link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/) |
