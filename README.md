@@ -148,6 +148,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Convert Hash To An Array**](7kyuKatas/Convert_Hash_To_An_Array.md) | 1 | `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/59557b2a6e595316ab000046) |
 | [**Count the divisors of a number**](7kyuKatas/Count_the_divisors_of_a_number.md) | 1 | `int`, `math` | [link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/) |
 | [**Credit Card Mask**](7kyuKatas/Credit_Card_Mask.md) | 1 | `str`, `hashmap` | [link](https://www.codewars.com/kata/5412509bd436bd33920011bc) |
+| [**Decreasing Inputs**](7kyuKatas/Decreasing_Inputs.md) | 1 | `int`, `math` `array` | [link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e) |
 | [**Descending Order**](7kyuKatas/Descending_Order.md) | 1 | `int`, `array`, `str`, `list`, `sort` | [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/) |
 | [**Dictionary from two lists**](7kyuKatas/Dictionary_from_two_lists.md) | 2 | `dict`, `hashmap`, `list`, `array` | [link](https://www.codewars.com/kata/5533c2a50c4fea6832000101/) |
 | [**Disemvowel Trolls**](7kyuKatas/Disemvowel_Trolls.md) | 2 | `array`, `str`, `list` | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
