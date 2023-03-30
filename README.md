@@ -370,6 +370,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Unfinished Loop - Bug Fixing # 1**](8kyuKatas/Unfinished_Loop_Bug_Fixing_1.md) | 1 | `loops`, `bug` | [link](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/) |
 | [**Volume of a Cuboid**](8kyuKatas/Volume_of_a_Cuboid.md) | 1 | `int`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/58261acb22be6e2ed800003a) |
 | [**Vowel remover**](8kyuKatas/Vowel_remover.md) | 2 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/5547929140907378f9000039) |
+| [**What is between?**](8kyuKatas/What_is_between.md) | 1 | `int`, `array`, `list` | [link](https://www.codewars.com/kata/55ecd718f46fba02e5000029) |
 | [**Welcome!**](8kyuKatas/Welcome.md) | 2 | `str`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/577ff15ad648a14b780000e7) |
 | [**What's the real floor?**](8kyuKatas/Whats_the_real_floor.md) | 1 | `int`, `control flow` | [link](https://www.codewars.com/kata/574b3b1599d8f897470018f6) |
 | [**Will there be enough space?**](8kyuKatas/Will_here_be_enough_space.md) | 2 | `int`, `arithmetic` | [link](https://www.codewars.com/kata/5875b200d520904a04000003/) |
