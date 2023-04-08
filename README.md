@@ -161,6 +161,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Find The Duplicated Number in a Consecutive Unsorted List**](7kyuKatas/Find_The_Duplicated_Number_in_a_Consecutive_Unsorted_List.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001/) |
 | [**Find the middle element**](7kyuKatas/Find_the_middle_element.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/) |
 | [**Find the stray number**](7kyuKatas/Find_the_stray_number.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/57f609022f4d534f05000024) |
+| [**Fix My Phone Numbers!**](7kyuKatas/Fix_My_Phone_Numbers.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/596343a24489a8b2a00000a2/) |
 | [**Fizz Buzz**](7kyuKatas/Fizz_Buzz.md) | 1 | `array`, `list` | [link](https://www.codewars.com/kata/5300901726d12b80e8000498/) |
 | [**Form The Largest**](7kyuKatas/Form_The_Largest.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) |
 | [**Form The Minimum**](7kyuKatas/Form_The_Minimum.md) | 2 | `str`, `array`, `list`, `dict`, `hashmap` | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) |
