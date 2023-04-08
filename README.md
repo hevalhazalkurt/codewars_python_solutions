@@ -132,6 +132,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Balanced Number (Special Numbers Series # 1 )**](7kyuKatas/Balanced_Number_Special_Numbers_Series_1.md) | 3 | `int`, `math` | [link](https://www.codewars.com/kata/5a4e3782880385ba68000018) |
 | [**Basic Sequence Practice**](7kyuKatas/Basic_Sequence_Practice.md) | 1 | `int`, `numbers`, `math`, `arithmetic`, `list`, `array` | [link](https://www.codewars.com/kata/5436f26c4e3d6c40e5000282) |
 | [**Beginner Series # 3 Sum of Numbers**](7kyuKatas/Beginner_Series_3_Sum_of_Numbers.md) | 1 | `int`, `math` | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/) |
+| [**Between Extremes**](7kyuKatas/Between_Extremes.md) | 2 | `int`, `math`, `list` | [link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/) |
 | [**Building Strings From a Hash**](7kyuKatas/Building_Strings_From_a_Hash.md) | 1 | `str`, `dict`, `hashmap`, `sort` | [link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2) |
 | [**Calculate Meal Total**](7kyuKatas/Calculate_Meal_Total.md) | 1 | `int`, `float`, `math` | [link](https://www.codewars.com/kata/58545549b45c01ccab00058c/) |
 | [**Categorize New Member**](7kyuKatas/Categorize_New_Member.md) | 1 | `str`, `array`, `list` | [link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |
