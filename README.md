@@ -102,6 +102,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Sum of Digits / Digital Root**](6kyuKatas/Sum_of_Digits_Digital_Root.md)  | 2 | `int`, `math` | [link](https://www.codewars.com/kata/541c8630095125aba6000c00) |
 | [**Sums of Parts**](6kyuKatas/Sums_of_Parts.md)  | 2 | `int`, `array`, `list` | [link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) |
 | [**Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!**](6kyuKatas/Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka.md)  | 2 | `int`, `array`, `list`, `sort` | [link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/) |
+| [**Take a Ten Minutes Walk**](6kyuKatas/Take_a_Ten_Minutes_Walk.md)  | 1 | `list`, `array` | [link](https://www.codewars.com/kata/54da539698b8a2ad76000228/) |
 | [**The Vowel Code**](6kyuKatas/The_Vowel_Code.md)  | 2 | `str` | [link](https://www.codewars.com/kata/53697be005f803751e0015aa/) |
 | [**Title Case**](6kyuKatas/Title_Case.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/5202ef17a402dd033c000009/) |
 | [**Tracking Sums in a Process**](6kyuKatas/Tracking_Sums_in_a_Process.md)  | 2 |  `list`, `array` | [link](https://www.codewars.com/kata/56dbb6603e5dd6543c00098d/) |
