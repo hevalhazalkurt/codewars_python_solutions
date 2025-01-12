@@ -30,6 +30,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Greed is Good**](5kyuKatas/Greed_is_Good.md)  | 1 | `int`, `array`, `dict`, `list`, `hashmap` | [link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/) |
 | [**Human Readable Time**](5kyuKatas/Human_Readable_Time.md)  | 2 | `str`, `format`, `time` | [link](https://www.codewars.com/kata/52685f7382004e774f0001f7/) |
 | [**Largest product in a series**](5kyuKatas/Largest_product_in_a_series.md)  | 1 | `int`, `math` | [link](https://www.codewars.com/kata/529872bdd0f550a06b00026e/) |
+| [**Maximum subarray sum**](5kyuKatas/Maximum_subarray_sum.md)  | 1 | `array`, `list` | [link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/) |
 | [**Moving Zeros To The End**](5kyuKatas/Moving_Zeros_To_The_End.md)  | 1 | `array`, `list`, `sort` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/) |
 | [**Not very secure**](5kyuKatas/Not_very_secure.md)  | 2 | `str`, `valid`, `data types` | [link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/) |
 | [**Pete, the baker**](5kyuKatas/Pete_the_baker.md)  | 1 | `hashmap`, `dict`, `data types` | [link](https://www.codewars.com/kata/525c65e51bf619685c000059/) |
