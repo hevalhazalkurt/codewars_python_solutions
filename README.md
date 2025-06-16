@@ -353,6 +353,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Reversed sequence**](8kyuKatas/Reversed_sequence.md) | 1 | `int`, `numbers`, `list`, `array`, `sort` | [link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) |
 | [**Reversed Strings**](8kyuKatas/Reversed_Strings.md) | 2 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) |
 | [**Sentence Smash**](8kyuKatas/Sentence_Smash.md) | 1 | `str`, `format`, `list`, `array` | [link](https://www.codewars.com/kata/53dc23c68a0c93699800041d/) |
+| [**Short Long Short**](8kyuKatas/Short_Long_Short.md) | 1 | `str`, `format`, `list`, `lambda`, `sort`| [link](https://www.codewars.com/kata/50654ddff44f800200000007/) |
 | [**Sort and Star**](8kyuKatas/Sort_and_Star.md) | 2 | `str`, `format`, `link`, `array` | [link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/) |
 | [**Squash the bugs**](8kyuKatas/Squash_the_bugs.md) | 2 | `str`, `list`, `array` | [link](https://www.codewars.com/kata/56f173a35b91399a05000cb7) |
 | [**Square(n) Sum**](8kyuKatas/Square_n_Sum.md) | 1 | `int`, `numbers`, `math`, `arithmetic` | [link](https://www.codewars.com/kata/515e271a311df0350d00000f) |
